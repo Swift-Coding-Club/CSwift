@@ -10,7 +10,7 @@ Swift 로 CS를 공부하며, CS 지식을 모아두는 장소로 사용되고 �
     + 전략 패턴
     + 옵저버 패턴
     + 프록시 패턴과 프록시 서버
-    + https://github.com/Swift-Coding-Club/CSwift/blob/ReadMe-Branch/%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0%20%ED%8C%A8%ED%84%B4
+    + [이터레이터 패턴](https://github.com/Swift-Coding-Club/CSwift/blob/ReadMe-Branch/%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0%20%ED%8C%A8%ED%84%B4)
     + 노출모듈 패턴
     + MVC 패턴
     + MVVM 패턴
