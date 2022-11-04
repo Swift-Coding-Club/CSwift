@@ -1,7 +1,10 @@
-# CSwift
+# CSwift ( CS + Swift )
 Swift 로 CS를 공부하며, CS 지식을 모아두는 장소로 사용되고 있습니다!
 부족한 부분이나 저희가 잘못 알고있는 부분이 있다면 언제든 말씀해주세요!
+
 현재 저희는 면접을 위한 CS 전공지식 노트 라는 책을 사용중입니다!
+
+![cs전공지식노트](https://user-images.githubusercontent.com/109560875/199913925-3736b8bc-a1b3-4f4b-905a-6ce90ddf0d9d.png)
 ***
 * Chapter 1. 디자인 패턴과 프로그래밍 패러다임
   - 디자인 패턴
