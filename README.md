@@ -67,7 +67,7 @@ Swift 로 CS를 공부하며, CS 지식을 모아두는 장소로 사용되고 �
     + HTTP/1
     + HTTP/2
     + HTTPS
-    + HTTP/
+    + HTTP/3
     + 예상 질문
 ***
 ## Chapter 3. 운영체제
