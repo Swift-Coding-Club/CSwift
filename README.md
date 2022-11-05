@@ -25,11 +25,11 @@ Swift 로 CS를 공부하며, CS 지식을 모아두는 장소로 사용되고 �
 
   - 디자인 패턴
     + 싱글톤 패턴
-    + 팩토리 패턴
+    + [팩토리 패턴](https://github.com/Swift-Coding-Club/CSwift/blob/main/1.%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4%EA%B3%BC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84/%ED%8C%A9%ED%86%A0%EB%A6%AC%ED%8C%A8%ED%84%B4.md)
     + 전략 패턴
     + 옵저버 패턴
     + 프록시 패턴과 프록시 서버
-    + [이터레이터 패턴](https://github.com/Swift-Coding-Club/CSwift/blob/ReadMe-Branch/%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0%20%ED%8C%A8%ED%84%B4)
+    + 이터레이터 패턴
     + 노출모듈 패턴
     + MVC 패턴
     + MVP 패턴
