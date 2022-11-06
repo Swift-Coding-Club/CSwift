@@ -31,9 +31,9 @@ Swift 로 CS를 공부하며, CS 지식을 모아두는 장소로 사용되고 �
     + 프록시 패턴과 프록시 서버
     + 이터레이터 패턴
     + 노출모듈 패턴
-    + MVC 패턴
+    + [MVC 패턴](https://github.com/Swift-Coding-Club/CSwift/blob/main/1.%20디자인%20패턴과%20프로그래밍%20패러다임/MVC패턴.md)
     + MVP 패턴
-    + MVVM 패턴
+    + [MVVM 패턴](https://github.com/Swift-Coding-Club/CSwift/blob/main/1.%20디자인%20패턴과%20프로그래밍%20패러다임/MVVM패턴.md)
   - 프로그래밍 패러다임
     + 선언형과 함수형 프로그래밍
     + 객체지향 프로그래밍
