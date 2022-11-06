@@ -42,6 +42,7 @@ Apple은 Documentation에서 Cocoa MVC에 대해 다음과 같은 설명을 하�
 
 ### Apple이 Cocoa MVC를 내놓은 이유에 대하여
 ![Alt text](https://developer.apple.com/library/archive/documentation/General/Conceptual/CocoaEncyclopedia/Art/traditional_mvc.gif)
+
 Apple이 기존의 MVC 방식을 두고, Cocoa MVC를 한 이유는 다음과 같습니다.
 1. 기존의 MVC의 경우 Model, View, Controller 간의 복잡성과 과도하게 밀접한 연관성
 2. 각 오브젝트들의 독립성이 없기 때문에 재사용성이 떨어짐
@@ -51,9 +52,6 @@ iOS 개발 시 ViewController를 사용하기 때문에 View와 Controller를 �
 
 ### MVC 주의점
 <img src="https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/Art/model_view_controller_2x.png" width="500">
-
-> ㄷ
-> ㄷ
 
 **Model**
 * 사용자가 **<span style="color: #1DAC84">편집하길 원하는 모든 데이터</span>** 를 가지고 있어야 함
@@ -70,6 +68,7 @@ iOS 개발 시 ViewController를 사용하기 때문에 View와 Controller를 �
 
 ### Apple이 생각했던 이상적인 Cocoa MVC
 <img src="https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/Art/model_view_controller_2x.png" width="500">
+
 Apple이 말하는 Cocoa MVC의 이점은 다음과 같습니다</br>
 
 1. **<span style="color: #1DAC84">재사용성이 더 용이함</span>** 
