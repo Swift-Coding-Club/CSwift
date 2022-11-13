@@ -31,9 +31,8 @@ Swift 로 CS를 공부하며, CS 지식을 모아두는 장소로 사용되고 �
     + 프록시 패턴과 프록시 서버
     + [이터레이터 패턴](https://github.com/Swift-Coding-Club/CSwift/blob/5969d84c95c539ffe4f10bb0f54c6345696a121c/1.%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4%EA%B3%BC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84/%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0%20%ED%8C%A8%ED%84%B4.md)
     + [노출모듈 패턴](https://github.com/Swift-Coding-Club/CSwift/blob/5969d84c95c539ffe4f10bb0f54c6345696a121c/1.%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4%EA%B3%BC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84/%EB%85%B8%EC%B6%9C%EB%AA%A8%EB%93%88%20%ED%8C%A8%ED%84%B4.md)
-    + MVC 패턴
-    + MVP 패턴
-    + MVVM 패턴
+    + [MVC 패턴](https://github.com/Swift-Coding-Club/CSwift/blob/main/1.%20디자인%20패턴과%20프로그래밍%20패러다임/MVC패턴.md)
+    + [MVVM 패턴](https://github.com/Swift-Coding-Club/CSwift/blob/main/1.%20디자인%20패턴과%20프로그래밍%20패러다임/MVVM패턴.md)
   - 프로그래밍 패러다임
     + 선언형과 함수형 프로그래밍
     + 객체지향 프로그래밍
@@ -67,7 +66,7 @@ Swift 로 CS를 공부하며, CS 지식을 모아두는 장소로 사용되고 �
     + HTTP/1
     + HTTP/2
     + HTTPS
-    + HTTP/
+    + HTTP/3
     + 예상 질문
 ***
 ## Chapter 3. 운영체제
@@ -150,7 +149,7 @@ Swift 로 CS를 공부하며, CS 지식을 모아두는 장소로 사용되고 �
 # Chapter 6. 포트폴리오와 면접
 
   - 포트폴리오
-    + 첫 문Chapter이 중요하다
+    + 첫 문이 중요하다
     + 숫자로 말하라
     + 기술의 숙련도를 나눠서 표기하라
     + 리드미를 잘 작성하라
@@ -163,7 +162,7 @@ Swift 로 CS를 공부하며, CS 지식을 모아두는 장소로 사용되고 �
     + 압박을 버텨라
     + 공식 사이트를 봐라
     + 또렷한 발음으로
-    + Chapter점, 단점, 차이는 필수다
+    + 장점, 단점, 차이는 필수다
     + 업무를 예측하라
     + 체크리스트를 만들어 준비하라
-    +  60 인성 면접!
+    + 인성 면접!
