@@ -35,7 +35,7 @@ Swift 로 CS를 공부하며, CS 지식을 모아두는 장소로 사용되고 �
     + MVP 패턴
     + [MVVM 패턴](https://github.com/Swift-Coding-Club/CSwift/blob/main/1.%20디자인%20패턴과%20프로그래밍%20패러다임/디자인%20패턴/MVVM패턴.md)
   - 프로그래밍 패러다임
-    + 선언형과 함수형 프로그래밍
+    + [선언형과 함수형 프로그래밍](https://github.com/Swift-Coding-Club/CSwift/blob/7a04ef8c236f35031d0555fa718da361fc854ea8/1.%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4%EA%B3%BC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84/%EC%84%A0%EC%96%B8%ED%98%95%EA%B3%BC%20%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
     + 객체지향 프로그래밍
     + [절차형 프로그래밍](https://github.com/Swift-Coding-Club/CSwift/blob/main/1.%20디자인%20패턴과%20프로그래밍%20패러다임/프로그래밍%20패러다임/절차형%20프로그래밍.md)
     + 패러다임의 혼합
@@ -46,7 +46,7 @@ Swift 로 CS를 공부하며, CS 지식을 모아두는 장소로 사용되고 �
     + [[Intro] 네트워크의 의미와 필요성](https://github.com/Swift-Coding-Club/CSwift/blob/main/2.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EC%9D%98%EB%AF%B8%EC%99%80%20%ED%95%84%EC%9A%94%EC%84%B1.md)
     + [처리량과 지연 시간](https://github.com/Swift-Coding-Club/CSwift/blob/main/2.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%B2%98%EB%A6%AC%EB%9F%89%EA%B3%BC%20%EC%A7%80%EC%97%B0%EC%8B%9C%EA%B0%84.md)
     + [네트워크 토폴로지와 병목 현상](https://github.com/Swift-Coding-Club/CSwift/blob/main/2.%20네트워크/네트워크%20토폴로지와%20병목%20현상.md)
-    + 네트워크 분류
+    + [네트워크 분류](https://github.com/Swift-Coding-Club/CSwift/blob/7a04ef8c236f35031d0555fa718da361fc854ea8/2.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EB%B6%84%EB%A5%98.md)
     + 네트워크 성능 분석 명령어
     + 네트워크 프로토콜 표준화
   - TCP/IP 4계층 모델
